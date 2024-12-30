@@ -4,7 +4,7 @@ import Layout from './pages/Layout';
 import Login from './pages/Login';
 import Register from './pages/Register';
 import IndexPage from './pages/IndexPage';
-import { UserContextProvider } from "./components/UserContext";
+import { UserContextProvider } from "./pages/UserContext";
 import CreatePost from './pages/CreatePost';
 import PostPage from './pages/PostPage';
 import EditPost from './pages/EditPost';
